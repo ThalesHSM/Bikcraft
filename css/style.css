@@ -315,5 +315,5 @@ img {
 
 .footer_redes ul li a {
 	border: 3px solid #fec63e;
-	
+	display: block;
 }
